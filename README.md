@@ -9,3 +9,4 @@ Key Features of GOL
 Canvas Drawing: Uses tkinter.Canvas to draw the grid and cells.
 Event Binding: Binds mouse clicks to toggle cell states and keyboard events to control the simulation.
 Game Logic: Implements the rules of Conway's Game of Life.
+![Screenshot 2024-06-21 150530](https://github.com/pixelpump/gametheory/assets/405196/f4229410-f0b0-44d9-b8d2-464a0e2a310c)
